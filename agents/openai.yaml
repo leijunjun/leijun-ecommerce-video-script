@@ -1,0 +1,6 @@
+interface:
+  display_name: "电商带货脚本 / E-commerce Video Script"
+  short_description: "商品卖点转脚本与分镜 / Product briefs to scripts and shot lists"
+  default_prompt: "用 $leijun-ecommerce-video-script 根据这份商品资料写一条 15 秒带货短视频，先请我确认目标客群、主买点和分镜结构，确认后再给出台词和逐镜分镜。"
+policy:
+  allow_implicit_invocation: true
